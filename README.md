@@ -1,11 +1,11 @@
 <h1>Hi there, I'm Mike!<br/><a href="#">IT Technician</a>, <a href="#">Programmer</a>, <a href="https://www.mik3p3r3z.com">Web Developer</a></h1>
 
-  <h2>👨🏻‍💻 System Administration Projects:</h2>
+  <h2>👨🏻‍💻 System Administration</h2>
   
   - Apple Business Essentials
   - Cisco Meraki
     
-  <h2>🌐 Web Development:</h2>
+  <h2>🌐 Web Development</h2>
   
   - <a href="https://www.iv3m43p3r3z.com" target="_blank">iv3m43p3r3z</a> - A personal business card website with links to social media.
   - <a href="https://www.daykinlaw.com" target="_blank">Daykin Law</a> - A small business website with a clean user interface and clear calls to action.

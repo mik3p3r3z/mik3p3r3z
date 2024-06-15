@@ -4,6 +4,10 @@
   
   - Apple Business Essentials
   - Cisco Meraki
+
+  <h2>🔟 Programming</h2>
+  
+  - Python 
     
   <h2>🌐 Web Development</h2>
   

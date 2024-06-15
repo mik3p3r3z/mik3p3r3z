@@ -7,14 +7,8 @@
   </ul>
   <h2>🌐 Web Development Projects</h2>
   <ul>
-    <li><a href="https://www.iv3m43p3r3z.com" target="_blank">iv3m43p3r3z</a></li>
-      <ul>
-        <li>A personal business card website with links to social media.</li>
-     </ul>
-    <li><a href="https://www.daykinlaw.com" target="_blank">Daykin Law</a></li>
-      <ul>
-        <li>A small business website with a clean user interface and clear calls to action.</li>
-      </ul>
+    <li><a href="https://www.iv3m43p3r3z.com" target="_blank">iv3m43p3r3z</a> - A personal business card website with links to social media.</li>
+    <li><a href="https://www.daykinlaw.com" target="_blank">Daykin Law</a> - A small business website with a clean user interface and clear calls to action.</li>
   </ul>
 
 <!--

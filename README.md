@@ -6,7 +6,7 @@
     <li>Apple Business Essential (Mobile Device Management)</li>
     <li></b>Cisco Meraki (Mobile Device Management)</li>
   </ul>
-  <li><b>🖥️Web Development</b></li>
+  <li><b>🖥️Web Development Projects</b></li>
   <ul>
     <li><a href="https://www.iv3m43p3r3z.com" target="_blank">iv3m43p3r3z</a> - A personal business card website with links to social media.</li>
     <li><a href="https://www.daykinlaw.com" target="_blank">Daykin Law</a> - A small business website with a clean user interface and clear calls to action.</li>

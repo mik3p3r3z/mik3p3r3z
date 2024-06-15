@@ -10,7 +10,11 @@
   - Python 
     
   <h2>🌐 Web Development</h2>
-  
+
+  CSS
+  - Structural and Functional Pseudo-Classes
+    
+  Projects
   - <a href="https://www.iv3m43p3r3z.com" target="_blank">iv3m43p3r3z</a> - A personal business card website with links to social media.
   - <a href="https://www.daykinlaw.com" target="_blank">Daykin Law</a> - A small business website with a clean user interface and clear calls to action.
     

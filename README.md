@@ -7,7 +7,8 @@
 
   <h2>🔟 Programming</h2>
   
-  - Python 
+  - Python
+  - PowerShell
     
   <h2>🌐 Web Development</h2>
 

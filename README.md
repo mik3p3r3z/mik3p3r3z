@@ -5,6 +5,10 @@
   - Apple Business Essentials
   - Cisco Meraki
 
+  <h2>🖥️ Projects</h2>
+  
+  - [Webwall Kiosk](https://github.com/mik3p3r3z/webwall-kiosk)
+
   <h2>🔟 Programming</h2>
   
   - Python
